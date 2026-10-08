@@ -1,9 +1,5 @@
 #include "main.h"
-//myname
 void SystemClock_Config(void);
-//andres
-
-// comment 
 int main(void)
 {
   HAL_Init();
